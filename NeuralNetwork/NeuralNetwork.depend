@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1743201771 source:c:\users\cherr\documents\codeblocksprojects\neuralnetwork\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
