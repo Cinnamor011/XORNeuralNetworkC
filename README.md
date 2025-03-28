@@ -1,0 +1,1 @@
+Feedforward neural network made in C to implement the XOR function. It uses fully connected architecture with backpropagation and gradient descent for training. The network consists of an input layer, a hidden layer with two neurons, and an output layer with a single neuron. 
